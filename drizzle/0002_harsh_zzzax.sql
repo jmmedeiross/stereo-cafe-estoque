@@ -1,0 +1,1 @@
+CREATE INDEX `idx_ledger_ts_id` ON `ledger` (`ts`,`id`);
